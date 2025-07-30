@@ -8,14 +8,14 @@ assets = { directory = "web/dist", binding = "ASSETS" }
 [[d1_databases]]
 binding = "DB"
 database_name = "cf-drop"
-database_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+database_id = "83a6c66c-e5e6-4b2b-8590-d32c82380f05"
 
 [[r2_buckets]]
 binding = "MY_BUCKET"
 bucket_name = "cf-drop"
 
 [vars]
-PASSWORD = ""
+PASSWORD = "zdw7073!"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
